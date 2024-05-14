@@ -1,1 +1,2 @@
-# CCI-JavaScript
+# JavaScript
+
